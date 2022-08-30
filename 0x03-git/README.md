@@ -1,2 +1,2 @@
 # alx-zero_day
-echo "goat"
+echo "mumu man"
